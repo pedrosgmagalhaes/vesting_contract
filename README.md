@@ -1,4 +1,5 @@
-# Basic Sample Hardhat Project
+# Tutorial about Vestin Contract from Iora Labs
+## Check more videos on https://www.youtube.com/channel/UCMlhd4h509HxHXIWgPZn8ZA
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
